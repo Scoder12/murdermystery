@@ -46,7 +46,7 @@ jobs:
 
       - name: Comment lint errors
         if: steps.lint.outputs.body != ''
-        uses: peter-evans/commit-comment@v1
+        uses: peter-evans/commit-comment@v1.3.2
         with:
           body: ${{ steps.lint.outputs.body }}
 
