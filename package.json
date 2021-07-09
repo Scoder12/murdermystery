@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^1.6.3",
-    "@chakra-ui/system": "^1.6.4",
+    "@chakra-ui/system": "^1.7.1",
     "@emotion/react": "^11.1.5",
     "@emotion/styled": "^11.3.0",
     "framer-motion": "^4.1.10",
